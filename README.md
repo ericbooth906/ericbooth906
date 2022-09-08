@@ -1,4 +1,4 @@
-# Hello. I'm Eric Booth with a new interest in web development. 
+# Hello. I'm Eric Booth and I have a new interest in web development. 
 ### I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet :grin:. Here it is if you need it :arrow_forward: [https://www.webfx.com/tools/emoji-cheat-sheet/] 
 
 #####  I am an outdoors person:evergreen_tree:
