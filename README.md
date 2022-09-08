@@ -1,7 +1,19 @@
-### Hi there 👋
+### Hello.  I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet :grin:
 
+I am an outdoors person:evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree: :rowboat:
+
+I enjoy fishing:fish::fish::fish::fish::fish:     :fishing_pole_and_fish:
+
+I am co-founder of an environmental organization:earth_americas::earth_americas::earth_americas::earth_americas::earth_americas:     :recycle:
+
+I enjoy basketball:basketball::basketball::basketball::basketball::basketball:
+
+I have attended the Lollapalooza Music Festival Twice :musical_note::fire::guitar:
+
+And, I'm a history major :closed_book::blue_book::green_book::orange_book::books:
 <!--
 **ericbooth906/ericbooth906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
