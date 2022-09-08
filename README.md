@@ -26,7 +26,7 @@ I have also learned how to insert photos.  Here is a picture of me looking excep
 ![IMG_9087 =250x250](https://user-images.githubusercontent.com/113112813/189143110-80231a24-6c61-45a9-81a0-f278f669d004.JPG)
 
 
-Look! I learned how to hightlight a paragraph and add sound :trumpet: /play tada
+Look! I learned how to hightlight a paragraph and add sound :trumpet: </play tada>
 
 
 <!--
