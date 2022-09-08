@@ -17,7 +17,6 @@
 > ## *Music Is Our DNA*
 > *With 9 stages, and 170+ bands from all over the world, every Lolla lineup makes hands wave, heads nod, and crowds holler.*
 
-
 ---
 
 I like to travel.  Here is a list of states that I _**have not**_ been to:
@@ -25,10 +24,8 @@ I like to travel.  Here is a list of states that I _**have not**_ been to:
 - Hawaii
 
 ---
-I have also learned how to insert photos.  Here is a picture of me on a whale watch boat.
+I have also learned how to insert photos.  Here is a picture of me on a whale watch boat near the Arctic Circle.
 ![Whale Watch small](https://user-images.githubusercontent.com/113112813/189189511-01204e64-7449-4f90-ad87-7ec79a1aa2b3.jpg)
-
-
 
 
 
