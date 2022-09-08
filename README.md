@@ -2,17 +2,22 @@
 ### I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet :grin: 
 #####  Here it is if you need it :arrow_forward: [https://www.webfx.com/tools/emoji-cheat-sheet/] 
 
-I am an outdoors person:evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree: :rowboat:
+I am an outdoors person:evergreen_tree:
 
-I enjoy fishing:fish::fish::fish::fish::fish:     :fishing_pole_and_fish:
-
-I am co-founder of an environmental organization:earth_americas::earth_americas::earth_americas::earth_americas::earth_americas::recycle:##### [https://www.instagram.com/erthcleanupcommunity/?hl=en]
-
-I enjoy basketball:basketball::basketball::basketball::basketball::basketball:#####  [https://www.nba.com/knicks]
-
-I have attended the Lollapalooza Music Festival (twice)  :musical_note::fire::guitar: ##### [https://www.lollapalooza.com/]
+I enjoy fishing :fishing_pole_and_fish:
 
 And, I'm a history major :closed_book::blue_book::green_book::orange_book::books:
+
+I enjoy basketball:basketball::arrow_forward:  ##### [https://www.nba.com/knicks]
+
+I am co-founder of an environmental organization:earth_americas::arrow_forward:[https://www.instagram.com/erthcleanupcommunity/?hl=en]
+
+I have attended the # Lollapalooza Music Festival # (twice) [https://www.lollapalooza.com/]
+![image](https://user-images.githubusercontent.com/113112813/189203101-4795b8d2-3fd4-4d5b-ab04-2d6a27f852bc.png) 
+
+> ## *Music Is Our DNA*
+> *With 9 stages, and 170+ bands from all over the world, every Lolla lineup makes hands wave, heads nod, and crowds holler.*
+
 
 ---
 
