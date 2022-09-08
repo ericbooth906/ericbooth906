@@ -13,6 +13,11 @@ I enjoy basketball:basketball::basketball::basketball::basketball::basketball:
 I have attended the Lollapalooza Music Festival Twice :musical_note::fire::guitar:
 
 And, I'm a history major :closed_book::blue_book::green_book::orange_book::books:
+
+I like to travel.  Here is a list of states that I _**have not**_ been to:
+- Alaska
+- Hawaii
+
 <!--
 **ericbooth906/ericbooth906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
