@@ -1,5 +1,6 @@
 # Hello.  
-### I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet [https://www.webfx.com/tools/emoji-cheat-sheet/] :grin:
+### I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet :grin: 
+#####  Here it is if you need it :arrow_forward: [https://www.webfx.com/tools/emoji-cheat-sheet/] 
 
 I am an outdoors person:evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree: :rowboat:
 
