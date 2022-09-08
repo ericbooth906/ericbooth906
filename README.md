@@ -10,13 +10,19 @@ I am co-founder of an environmental organization:earth_americas::earth_americas:
 
 I enjoy basketball:basketball::basketball::basketball::basketball::basketball:
 
-I have attended the Lollapalooza Music Festival Twice :musical_note::fire::guitar:
+I have attended the Lollapalooza Music Festival (twice)  :musical_note::fire::guitar:
 
 And, I'm a history major :closed_book::blue_book::green_book::orange_book::books:
+
+---
 
 I like to travel.  Here is a list of states that I _**have not**_ been to:
 - Alaska
 - Hawaii
+
+---
+I have also learned how to insert photos.  Here is a picture of me looking exceptionally cool.
+![IMG_9087 =250x250](https://user-images.githubusercontent.com/113112813/189143110-80231a24-6c61-45a9-81a0-f278f669d004.JPG)
 
 <!--
 **ericbooth906/ericbooth906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
