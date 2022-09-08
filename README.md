@@ -1,4 +1,4 @@
-# Hello.  
+# Hello. I'm Eric Booth with a new interest in web development. 
 ### I'm new at this. I'm going to tell you a little bit about me and demonstrate that I have gone through the emoji cheat sheet :grin: 
 #####  Here it is if you need it :arrow_forward: [https://www.webfx.com/tools/emoji-cheat-sheet/] 
 
@@ -6,12 +6,11 @@ I am an outdoors person:evergreen_tree::evergreen_tree::evergreen_tree::evergree
 
 I enjoy fishing:fish::fish::fish::fish::fish:     :fishing_pole_and_fish:
 
-I am co-founder of an environmental organization:earth_americas::earth_americas::earth_americas::earth_americas::earth_americas:     :recycle:
-[https://www.instagram.com/erthcleanupcommunity/?hl=en]
+I am co-founder of an environmental organization:earth_americas::earth_americas::earth_americas::earth_americas::earth_americas::recycle:##### [https://www.instagram.com/erthcleanupcommunity/?hl=en]
 
-I enjoy basketball:basketball::basketball::basketball::basketball::basketball:
+I enjoy basketball:basketball::basketball::basketball::basketball::basketball:#####  [https://www.nba.com/knicks]
 
-I have attended the Lollapalooza Music Festival (twice)  :musical_note::fire::guitar:
+I have attended the Lollapalooza Music Festival (twice)  :musical_note::fire::guitar: ##### [https://www.lollapalooza.com/]
 
 And, I'm a history major :closed_book::blue_book::green_book::orange_book::books:
 
@@ -22,11 +21,11 @@ I like to travel.  Here is a list of states that I _**have not**_ been to:
 - Hawaii
 
 ---
-I have also learned how to insert photos.  Here is a picture of me looking exceptionally cool on a whale watch boat.
-![IMG_9087 =250x250](https://user-images.githubusercontent.com/113112813/189143110-80231a24-6c61-45a9-81a0-f278f669d004.JPG)
+I have also learned how to insert photos.  Here is a picture of me on a whale watch boat.
+![Whale Watch small](https://user-images.githubusercontent.com/113112813/189189511-01204e64-7449-4f90-ad87-7ec79a1aa2b3.jpg)
 
 
-Look! I learned how to hightlight a paragraph and add sound :trumpet: </play tada>
+
 
 
 <!--
