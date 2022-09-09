@@ -10,7 +10,7 @@
 #####  :basketball: I enjoy basketball - particularly the [NY Knicks](https://www.nba.com/knicks) 
 
 #####  :earth_americas:I am co-founder of an [environmental organization](https://www.instagram.com/erthcleanupcommunity/?hl=en) 
-
+<!--
 #####  :musical_note:I have attended the [Lollapalooza Music Festival](https://www.lollapalooza.com/) # (twice) 
 ![image](https://user-images.githubusercontent.com/113112813/189203101-4795b8d2-3fd4-4d5b-ab04-2d6a27f852bc.png) 
 
