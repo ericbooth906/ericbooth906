@@ -1,47 +1,48 @@
 body{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:#f3dec8;
-    color:darkcyan}
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:darkgray;
+    color:black}
 
 h1, h2, h3,h4,h5,h6
-{font-family:Oswald;color:darkcyan;}
-h1 {font-size:44pt;text-align: center; color: burlywood;}
-h2 {font-size:36pt;text-align: center; margin: .1em;  color:saddlebrown;font-style: italic;padding: 50px;}
-h3 {font-size:24pt;text-align: center;}
+{font-family: Dosis}
+h1 {font-size:30pt;text-align: center; color: black; font-variant: small-caps;}
+h2 {font-size:24pt;text-align: center; margin: .25em; font-weight: bolder; color:black;padding: 25px;}
+h3 {font-size:24pt;text-align: center;color: black;}
 h4 {font-size:18pt;text-align: left;}
 
 h2 {text-align:center margin 1rem}
 header {text-align: center;}
 
-#p2 {font-family: Oswald; 
+#p2 {font-family:Dosis; 
     text-align:left;
     font-size: 12pt;
     font-weight: normal;
-    color:sienna}
+    color:maroon}
  
     /*Hero and Footer Section*/
 
 /*Hero Section*/
     #hero
     {flex: auto;
-    font-family: Oswald;
-    background-color:blanchedalmond;
-    border:5px solid #368096;
+    font-family: Dosis;
+    background-color:silver;
+    border:5px solid maroon;
     border-style:groove;
     text-align: center;
     padding: 10px;
-    font-size: 18pt;
+    font-size:20pt;
     font-variant: small-caps;
     color: black;}
    
 /*Video Section*/
 #video
     {flex: auto;
-    align-items: center chocolate;
-    font-family: Oswald;
-    background-color:blanchedalmond;
-    border:5px solid #368096;
-    border-style:double;
+    align-items: center;
+    color: maroon;
+    font-family: Dosis;
+    background-color: silver;
+    border:5px solid maroon;
+    border-style:groove;
     text-align: center;
     padding: 10px;
     font-size: 18pt;
@@ -51,13 +52,14 @@ header {text-align: center;}
   /*Footer Section*/
     #footer 
     {text-align: center;
-    font-family:Oswald;
-    background-color: saddlebrown;
-    border: 1.5px solid #368096;
+    font-family:Dosis;
+    background-color: dimgray;
+    border:5px solid maroon;
+    border-style:groove;
     padding: 10px;
     font-size: 12pt;
     font-variant: small-caps;
-    color: bisque;}
+    color: silver;}
    
 
 /*Hobbies Section*/
@@ -65,10 +67,13 @@ header {text-align: center;}
     {display:flex;
     flex-direction: column;
     align-items: center;
-    font-family:Oswald;
+    font-family:Dosis;
+    font-size: 14pt;
+    color:black;
     font:bolder;
-    background-color:cadetblue;
-    border:slategrey 5px solid;
+    background-color:silver;
+    border:5px solid maroon;
+    border-style:groove;
     margin:.1em}
 
 #hobbies
@@ -77,13 +82,15 @@ header {text-align: center;}
 
     #hobbies ul {
     text-align: center;
-    color:blanchedalmond;
-    font:bolder;}
+    color:black;
+    font:bolder;
+    list-style-type: none; 
+    }
 
 /*New Box Section*/
     #newbox {
-        background-color:cadetblue;
-        font-family:Oswald;
+        background-color:steelblue;
+        font-family: Dosis;
         color:darkslategrey; 
         font:bolder;
         padding: 10px 1/4; 
@@ -91,12 +98,12 @@ header {text-align: center;}
         text-align: center;
         font-size: 18pt;
         max-height: fit-content;
-        color:aquamarine;
+        color:lightgrey;
         align-items: center;
         }
 
         #mushroom {
-            background-color:cornsilk;
+            background-color:silver;
             border:slategrey 3px solid;
             padding: 10px 1/4; 
             margin: 10px;
@@ -111,27 +118,28 @@ header {text-align: center;}
     /*Bio Section*/
 
     #bio {
-        background-color:blanchedalmond;
-        border:slategrey 5px solid;
+        background-color:silver;
+        border:maroon 5px solid;
+        border-style:groove;
         margin-top: 10px;
         margin-right: 10px;
         margin-left: 10px;
         margin-bottom: 10px;
-        text-align:center;
-        font-family: Oswald;
+        text-align:left;
+        font-family: Dosis;
         font-size:14pt;
         font-weight:normal display flex; 
         flex-direction: column; 
         align-items: center;}
   
     #li{text-align:center; 
-        font-family:Oswald;
+        font-family:Dosis;
         font-weight:normal}
 
 /*Gallery Section*/
 
     #gallery{
-    border: 5px solid darkcyan;
+    border: 5px solid grey;
     align-items: center;
     margin-bottom:2rem}
 
@@ -173,13 +181,13 @@ header {text-align: center;}
 /*Article Section */  
 
     #lit{
-        background-color:cornsilk;
-        border: 5px solid saddlebrown;
+        background-color:lightgrey;
+        border: 5px solid maroon;
         padding: 50px;
         text-align: left;
         line-height: 1.5;
         font-weight:normal; 
-        font-family: Oswald; 
+        font-family:Dosis; 
         font-size:14pt;
         margin-bottom:2rem;
         }
@@ -204,12 +212,12 @@ header {text-align: center;}
         margin: 0 auto;
         float:.5rem inline-start;
         color: black;
-        background-color: darkseagreen;
+        background-color: darkgoldenrod;
         font-size: 1.5rem;
         padding: .5rem;
         border: 1px outset darkgrey;
         font-weight: bolder;
-        box-shadow: .5px .5px .5px .5px coral;
+        box-shadow: .5px .5px .5px .5px maroon;
     }
            
     /* Contact Form*/
@@ -227,7 +235,7 @@ header {text-align: center;}
         }
 
         fieldset{
-            border: 2px solid saddlebrown;
+            border: 2px solid maroon;
             margin-top: 1em;
             margin-bottom: 1em;
             border-radius: 2rem;
@@ -235,8 +243,8 @@ header {text-align: center;}
         }
 
     legend{
-        background-color: saddlebrown;
-        color:bisque;
+        background-color: maroon;
+        color:silver;
         padding: 0.5rem;
         font-variant: small-caps;
     }
@@ -251,10 +259,10 @@ header {text-align: center;}
     }
 
     #contact button {
-        background-color: saddlebrown;
+        background-color: maroon;
         padding: .5em;
-        color:bisque;
-        border: .25em solid darkslategray;
+        color:silver;
+        border: .25em solid steelblue;
         max-width: 500px;
        font-variant: small-caps;
        font-size: larger;
